@@ -1,0 +1,1 @@
+import"./client.CoSpA2ir.js";
